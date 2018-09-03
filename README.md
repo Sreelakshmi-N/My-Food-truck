@@ -1,6 +1,7 @@
 # My-Food-truck
 Team details:
-1. Sreelakshmi
+
+1.Sreelakshmi
 
 2.Sowmya
 
